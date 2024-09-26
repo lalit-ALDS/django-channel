@@ -33,8 +33,8 @@ This project demonstrates the use of **Django Channels** to handle asynchronous 
 1. Clone the repository from GitHub:
 
     ```bash
-    git clone https://github.com/yourusername/yourproject.git
-    cd yourproject
+    git clone https://github.com/lalit-ALDS/django-channel.git
+    cd django-channel
     ```
 
 2. Create a virtual environment and activate it:
